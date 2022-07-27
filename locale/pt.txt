@@ -6,7 +6,7 @@
 tour.description = Maior Dental do Norte e Nordeste
 
 ### Title
-tour.name = WF Odonto e Cirúrgica
+tour.name = WN Odonto Medical
 
 ## Skin
 
@@ -19,6 +19,8 @@ Button_2FEBB9E3_3834_7260_41B6_968B4605C2CC.label = ODONTOLÓGICOS
 Button_2FEBB9E3_3834_7260_41B6_968B4605C2CC_mobile.label = ODONTOLÓGICOS
 Button_2FED4482_3835_92A0_419E_6808F5638FAB.label = VESTUÁRIO
 Button_2FED4482_3835_92A0_419E_6808F5638FAB_mobile.label = VESTUÁRIO
+Button_323B2639_3D33_5BC7_4183_90288A0FC0C8.label = BALCÃO ATENDIMENTO
+Button_323B2639_3D33_5BC7_4183_90288A0FC0C8_mobile.label = BALCÃO ATENDIMENTO
 Button_E60B8634_FB49_1501_41D3_1EB9128CFA11.label = ACESSÓRIOS
 Button_E60B8634_FB49_1501_41D3_1EB9128CFA11_mobile.label = ACESSÓRIOS
 Button_E610DBA4_FB4B_1301_41E8_B78505FDE928.label = SANEANTES
@@ -75,11 +77,11 @@ panorama_3D73DB50_37CD_97A0_4141_77630CCB9DB0.label = FOTO_2788
 ## Action
 
 ### URL
-LinkBehaviour_1D54E7A5_38D3_9EE0_41C1_7D8B664BE867.source = https://www.instagram.com/wnodontomedical/?hl=pt
-LinkBehaviour_1D6AA7A7_38D3_9EE0_418C_D613810D76F3.source = wa.link/rfe8pl
-LinkBehaviour_1D6B57A9_38D3_9EE0_41C6_44A69BDD757C.source = https://web.facebook.com/wnodontomedical
-LinkBehaviour_1D6B67A8_38D3_9EE0_41B8_62F90DC3C777.source = https://g.page/wnodontomedical?share
-LinkBehaviour_201482C8_38DC_96A0_41C6_04BAA827A341.source = wa.link/rfe8pl
+LinkBehaviour_201482C8_38DC_96A0_41C6_04BAA827A341.source = https://wa.link/nzidni
 LinkBehaviour_20FF7D66_38CC_F260_41C0_7D8B5B8449EB.source = https://www.instagram.com/wnodontomedical/?hl=pt
 LinkBehaviour_214BF2E2_38DD_B660_41B8_08AE2E7FEA67.source = https://g.page/wnodontomedical?share
+LinkBehaviour_2558A94E_3D3D_685C_419C_DD46F46C4123.source = https://www.instagram.com/wnodontomedical/?hl=pt
+LinkBehaviour_25590951_3D3D_6844_41B0_A560D7D0A1F4.source = https://web.facebook.com/wnodontomedical
+LinkBehaviour_2559194F_3D3D_685C_41C7_F91F3CE3C2B4.source = https://wa.link/nzidni
+LinkBehaviour_2559D950_3D3D_6844_41CA_811FB8CAAB7D.source = https://g.page/wnodontomedical?share
 LinkBehaviour_2FAEA3A4_38DC_96E0_41B3_A7F4AB43D518.source = https://web.facebook.com/wnodontomedical
