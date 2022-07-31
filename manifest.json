@@ -1,9 +1,9 @@
 {
  "name": "WN Odonto Medical",
- "description": "Maior Dental do Norte e Nordeste",
  "start_url": "index.htm",
- "background_color": "#FFFFFF",
  "theme_color": "#FFFFFF",
+ "description": "Maior Dental do Norte",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",

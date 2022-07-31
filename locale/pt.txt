@@ -3,7 +3,7 @@
 ## Tour
 
 ### Description
-tour.description = Maior Dental do Norte e Nordeste
+tour.description = Maior Dental do Norte
 
 ### Title
 tour.name = WN Odonto Medical
